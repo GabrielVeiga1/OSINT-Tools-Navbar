@@ -60,7 +60,7 @@ Ferramentas que fogem das categorias principais, mas ainda assim são úteis.
 Materiais educativos, frameworks, referências e guias de estudo.
 
 ## 🙌 Créditos e agradecimentos
-Este projeto foi possível graças à generosidade de comunidades e iniciativas que compartilharam conhecimento de forma aberta. Nossos mais sinceros agradecimentos a:
+Este projeto foi possível graças à generosidade de comunidades e iniciativas que compartilharam conhecimento de forma aberta. Meus mais sinceros agradecimentos a:
 
 > * 🔍 Caipora (Brasil) – Curadoria original de ferramentas OSINT no cenário nacional
 > * 🌐 TraceLabs – OSINT Search Party Bookmarks, estrutura refinada e internacional
